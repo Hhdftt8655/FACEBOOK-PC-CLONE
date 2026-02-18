@@ -27,7 +27,7 @@ pkg install git
 rm -rf FACEBOOK-PC-CLONE
 
 
-git clone https://github.com/ariyanahamed282/FACEBOOK-PC-CLONE.git
+git clone https://github.com/Hhdftt8655/FACEBOOK-PC-CLONE.git
 
 
 cd FACEBOOK-PC-CLONE
